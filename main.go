@@ -8,7 +8,7 @@ import "fmt"
 
 func main() {
   //declares input var as string
-  var input string
+  var input string 
   //prints whats your name
   fmt.Println("what is your name")
   //stores response as input
